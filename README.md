@@ -1,4 +1,4 @@
 # bigdata
 Desafio - Solução Big Data
 
-Processo de ETL utilizando no DataBricks Community
+Processo de ETL utilizando DataBricks Community
