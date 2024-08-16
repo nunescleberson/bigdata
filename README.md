@@ -14,4 +14,4 @@
    2) Código criação tópico: hadoop@cleberson-Virtual-Machine:/usr/local/kafka$ ./bin/kafka-topics.sh --create --topic real_time_data --bootstrap-server localhost:9092
 
 
-#### Obs: Todo processo de ingestão foi realizado após a instalação dos serviços no Ubuntu (local).
+#### Obs: Todo processo de ingestão foi realizado após a instalação dos serviços no Ubuntu (local), segue gravação no repositório (Gravação Ingestão.webm)
